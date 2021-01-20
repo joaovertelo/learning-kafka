@@ -109,6 +109,7 @@ SELECT * FROM pg_replication_slots;
 ```
 
 ### Discussion: Differences between JDBC and Debezium source connectors
+### Discussion 2: Differences between creating a topic in Kafka and directly from the Connector
 
 ## Step 3. Create the Sink Connectors to the Landing Zone
 
