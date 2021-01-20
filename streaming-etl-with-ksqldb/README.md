@@ -263,3 +263,6 @@ CREATE SINK CONNECTOR `postgres-sink-empdep` WITH (
  ```
 
 ## Step 7. Let's test!
+
+### Discussion: How updates can work?
+### Discussion 2: How to handle the date in an integer format?
