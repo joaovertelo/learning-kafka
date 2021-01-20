@@ -228,6 +228,7 @@ ON se.depid = sd.depid;
 ```
 
 ### Discussion: Understand keys on streams
+### Discussion 2: Performing Joins on the Source Connector or on the Streams?
 
 ## Step 6. Sink the EMPLOYEES_DEPARTMENTS Topic
 
