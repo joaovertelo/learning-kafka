@@ -1,5 +1,9 @@
 # Learning Streaming ETL with ksqlDB
-## Under construction...
+## Side Note: Under construction...
+
+## Project Architecture
+
+![architecture](https://github.com/paulodnobre/learning-kafka/blob/main/streaming-etl-with-ksqldb/images/1.png)
 
 ## Step 1. Prepare Dev Environment
 
