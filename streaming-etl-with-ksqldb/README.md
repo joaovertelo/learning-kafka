@@ -1,4 +1,4 @@
-# Learning Streaming ETL with ksqldb
+# Learning Streaming ETL with ksqlDB
 ## Under construction...
 
 ## Step 1. Prepare Dev Environment
