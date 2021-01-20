@@ -182,7 +182,8 @@ CREATE SINK CONNECTOR `postgres-sink-raw-employees` WITH (
     "transforms.unwrap.type"			= 'io.debezium.transforms.ExtractNewRecordState',
     "transforms.unwrap.drop.tombstones" = 'false');
  ```
-  
+### Discussion: Troubleshooting Sink Connector
+
 ## Step 4. Create the Streams
 
 ### Discussion: Understand Streams vs Tables
