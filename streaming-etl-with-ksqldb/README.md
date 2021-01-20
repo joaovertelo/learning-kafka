@@ -102,7 +102,7 @@ CREATE SOURCE CONNECTOR `postgres-source-employees` WITH (
 );
 ```
 
-### Optional: If you are using Debezium, check the replication slots that was created
+### Optional: If you are using Debezium, check the replication slots that were created
 
 ```sql
 SELECT * FROM pg_replication_slots;
